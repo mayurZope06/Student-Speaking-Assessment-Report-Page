@@ -1,0 +1,11 @@
+{
+  "studentId": "A123",
+  "name": "Candidate Result",
+  "overall_score": 7.0,
+  "breakdown": {
+    "pronunciation": 8.0,
+    "fluency": 6.5,
+    "vocabulary": 7.0,
+    "grammar": 6.0
+  }
+}
